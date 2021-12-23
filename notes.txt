@@ -1,0 +1,7 @@
+Haar & Cascade 
+Haar adalah feature hitam/putih
+Cascade classifier bertahap.
+
+1. Coba buat program yang bisa menyimpan hasil dari deteksi wajah. Hanya wajahnya saja. File .jpg. 
+Tampil di folder Output. 
+2. 
